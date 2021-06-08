@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 60%;
+    margin: 0 auto;
+}
+
+#intestazione-sfondo {
+    height: 150px;
+    background-color: royalblue;
+    background-image: url("../img/pattern.png");
+}
+
+#intestazione-logo {
+    width: 300px;
+    padding-top: 60px;
+}
+
+
+
+.titolo {
+    font-size: 30px;
+    margin: 0;
+}
+
+.sottotitolo {
+    color: grey;
+}
+
+.sottotitolo p {
+    font-size: 15px;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: royalblue;
+}
+
+
+
+h6 {
+    margin: 0;
+}
