@@ -7,7 +7,7 @@ body {
 
 #intestazione-sfondo {
     height: 150px;
-    background-color: royalblue;
+    background-color: rgb(78, 160, 255);
     background-image: url("../img/pattern.png");
 }
 
