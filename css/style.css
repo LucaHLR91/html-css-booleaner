@@ -1,8 +1,3 @@
-* {
-    margin: 0;
-    padding: 0;
-}
-
 body {
     width: 60%;
     margin: 0 auto;
@@ -19,11 +14,13 @@ body {
     padding-top: 60px;
 }
 
-
-
 .titolo {
     font-size: 30px;
     margin: 0;
+}
+
+.titolo h1 {
+    margin-bottom: 0;
 }
 
 .sottotitolo {
@@ -33,15 +30,19 @@ body {
 .sottotitolo p {
     font-size: 15px;
     margin: 0;
+    margin-bottom: 15px;
 }
+
 
 a {
     text-decoration: none;
     color: royalblue;
 }
 
-
-
 h6 {
     margin: 0;
+}
+
+.foto {
+    font-size: 10px;
 }
