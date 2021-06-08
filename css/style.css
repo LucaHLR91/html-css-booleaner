@@ -3,6 +3,8 @@ body {
     margin: 0 auto;
 }
 
+/* intestazione */
+
 #intestazione-sfondo {
     height: 150px;
     background-color: royalblue;
@@ -43,6 +45,17 @@ h6 {
     margin: 0;
 }
 
+/* /intestazione */
+
+
+/* corpo */
+
 .foto {
     font-size: 10px;
+
 }
+
+.foto p {
+    margin: 0;
+}
+
